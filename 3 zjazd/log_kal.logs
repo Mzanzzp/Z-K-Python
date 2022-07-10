@@ -1,0 +1,15 @@
+INFO:__main__:wywolanie add z argumantami: 555 34
+INFO:__main__:wywolanie div z argumantami: 354 0
+CRITICAL:__main__:dzielenie przez zero  354 0
+INFO:__main__:wywolanie div z argumantami: 2 0
+CRITICAL:__main__:dzielenie przez zero  2 0
+INFO:kalkulator:wywolanie add z argumantami: 5 7
+INFO:kalkulator:wywolanie sub z argumantami: 4 4
+INFO:kalkulator:wywolanie div z argumantami: 44 2
+INFO:kalkulator:wywolanie multi z argumantami: 333 333
+INFO:kalkulator:wywolanie add z argumantami: 5 7
+INFO:kalkulator:wywolanie sub z argumantami: 4 4
+INFO:kalkulator:wywolanie div z argumantami: 44 2
+INFO:kalkulator:wywolanie multi z argumantami: 333 333
+INFO:kalkulator:wywolanie div z argumantami: 0 0
+CRITICAL:kalkulator:dzielenie przez zero  0 0
